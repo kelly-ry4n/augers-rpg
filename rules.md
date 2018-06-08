@@ -30,6 +30,7 @@ Shield: Block one wound per round
 Heavy Armor: Block 5 wounds (total),  Movement -4
 Actions
 
+# Actions
 
 Each action can be used to:
 * Move your speed
