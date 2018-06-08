@@ -20,8 +20,11 @@ body {
 
 <body>
 	<a href="full_graph.svg"><h1>Skill Tree</h1></a>
-	Hover nodes for skill descriptions
-	Nodes are links to appropriate place in skill list
+	Hover nodes for skill descriptions<br/>
+	Nodes are links to appropriate place in skill list<br/>
+
+
+	<a href="rules.html"><h1>Game Rules</h1></a><br/>
 
 
 	%s
