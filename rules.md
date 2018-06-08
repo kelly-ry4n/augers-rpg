@@ -1,4 +1,4 @@
-﻿Basics
+#Basics
 Characters have a few stats. You improve them in the skill tree.
 
 
@@ -16,7 +16,7 @@ Start every fight with essence and Khan full.
 If you have healing, start every fight with max wounds. Else, carry wounds forward
 
 
-Items
+#Items
 Switching/equiping items or gear is an action
 
 
@@ -72,7 +72,7 @@ AoOs are a single wound risk.
 
 
 
-Generally speaking, 
+#Generally speaking, 
 
 
 * Khan is for getting you more actions and messing with enemy plans
