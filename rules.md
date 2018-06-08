@@ -1,4 +1,4 @@
-﻿Basics
+# Basics
 Characters have a few stats. You improve them in the skill tree.
 
 
@@ -16,20 +16,20 @@ Start every fight with essence and Khan full.
 If you have healing, start every fight with max wounds. Else, carry wounds forward
 
 
-Items
+# Items
 Switching/equiping items or gear is an action
 
 
-Sword: d6 
-Dagger: 2d6, foe also hits you
-Polearm: d6, -2 speed
-Bow: d6, 10 range, firing provokes AoO
-Crossbow: d6, 15 range, separate load/fire actions
-Flintlock Rifle: 3d6, once per combat
-Shield: Block one wound per round
-Heavy Armor: Block 5 wounds (total),  Movement -4
-Actions
+- Sword: d6 
+- Dagger: 2d6, foe also hits you
+- Polearm: d6, -2 speed
+- Bow: d6, 10 range, firing provokes AoO
+- Crossbow: d6, 15 range, separate load/fire actions
+- Flintlock Rifle: 3d6, once per combat
+- Heavy Armor: Block 5 wounds (total),  Movement -4
+- Actions
 
+# Actions
 
 Each action can be used to:
 * Move your speed
@@ -72,7 +72,7 @@ AoOs are a single wound risk.
 
 
 
-Generally speaking, 
+# Generally speaking, 
 
 
 * Khan is for getting you more actions and messing with enemy plans
