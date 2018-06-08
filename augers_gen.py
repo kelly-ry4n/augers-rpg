@@ -17,11 +17,11 @@ class Arrow(object):
             "{}" -> "{}"[color="{}",href="https://google.ca"];'''.format(
                 self.start.full_name, 
                 self.start.desc,
-                'augers.html#'+self.start.full_name.replace(' ','-'),
+                'index.html#'+self.start.full_name.replace(' ','-'),
 
                 self.end.full_name,
                 self.end.desc,
-                'augers.html#'+self.end.full_name.replace(' ','-'),
+                'index.html#'+self.end.full_name.replace(' ','-'),
 
 
                 self.start.full_name, 
