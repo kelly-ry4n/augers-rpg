@@ -754,5 +754,14 @@ Does not give range in other circumstances",href="index.html#Stonecutter-2"]
             "Essence Blast 1" -> "Essence Blast 2"[color="black",href="https://google.ca"];
 
 
+            "Essence 0"[tooltip="+1 Khan Resist
++700 Essence
+",href="index.html#Essence-0"]
+            "Essence Finesse 2"[tooltip="When using an ability with an essence cost, 6s explode, allowing you to roll another die.
+    ",href="index.html#Essence-Finesse-2"]
+
+            "Essence 0" -> "Essence Finesse 2"[color="black",href="https://google.ca"];
+
+
 
 }

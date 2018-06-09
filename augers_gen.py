@@ -277,6 +277,8 @@ ea2 = S('Essence Armor', '2', '''
     200 essence/round
 ''')
 
+ef2 = S('Essence Finesse', '2', '''When using an ability with an essence cost, 6s explode, allowing you to roll another die.
+    ''')
 
 
 alive.children = auger
@@ -350,6 +352,7 @@ essence0.children = shielding1
 essence0.children = ek1
 essence0.children = healing1
 essence0.children = eb1
+essence0.children = ef2
 shielding1.children = aoes2
 eb1.children = aoes2
 eb1.children = aoeh2
